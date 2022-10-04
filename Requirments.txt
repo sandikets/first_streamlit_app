@@ -1,5 +1,0 @@
-
-#snowflake-connector-python
--r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_37.reqs 4
-snowflake-connector-python==3.9
-snowflake-connector-python
